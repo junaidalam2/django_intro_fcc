@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+
+venv/
+bin/
+src/trydjango/local_settings.py
+src/**/__pycache__
+src/db.sqlite3
+pyvenv.cfg
+*.log
+*.pot
+*.pyc
+media
