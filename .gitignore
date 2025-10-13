@@ -10,3 +10,4 @@ pyvenv.cfg
 *.pot
 *.pyc
 media
+lib/
